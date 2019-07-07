@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-console.log("3bker");
+console.log("lionEG");
 var prefix = "*";
 client.on("message", message => {
 
