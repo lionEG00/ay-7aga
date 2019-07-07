@@ -23,7 +23,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : lionEG ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`BY|lionEG server`,"http://twitch.tv/Death Shop")
+client.user.setGame(`BY|lionEG`,"http://twitch.tv/Death Shop")
 client.user.setStatus("BY|lionEG")
 });
 
